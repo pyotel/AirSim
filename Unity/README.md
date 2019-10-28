@@ -23,6 +23,7 @@ This project is still in early development, expect some rough edges. We are work
 * Run `build.cmd` from the command line. 
 
 #### Build Unity Project
+* "VS 2017용 x64 네이티브 도구 명령 프롬프트"로 CMD 창을 열어야 한다
 * Go inside the AirSim\Unity directory: `cd Unity`. 
 * Build the unity project: `build.cmd`.   
 * Additionally, there is a free environment `Windridge City` which you can download from [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/roadways/windridge-city-132222). And, of course, you can always create your own environment.

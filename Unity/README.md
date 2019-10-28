@@ -64,6 +64,7 @@ chmod +x UnitySetup-2018.2.7f1
 This will generate the necessary shared library and copy it to the UnityDemo Plugins folder.
 
 ## Usage 
+* 실행 영상을 보고 싶다면 : https://github.com/pyotel/AirSim/blob/master/Unity/DemoVideo.mp4
 * Start Unity and click `Open project`. 
 * Select the folder `AirSim\Unity\UnityDemo`, and then hit the button `Select Folder`. 
 * In the bottom pane, Click on `Projects`->`Assets`->`Scenes`. Then, **Double-click** on `SimModeSelector`. This will load the SimModeSelector scene into the scene hierarchy pane. *DO NOT* add CarDemo or DroneDemo scene into the scene hierarchy pane.

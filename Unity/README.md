@@ -18,7 +18,7 @@ This project is still in early development, expect some rough edges. We are work
 * Install Visual Studio 2017. 
 **Make sure** to select **VC++** and **Windows SDK 8.1** while installing VS 2017.   
 
-* Start `x64 Native Tools Command Prompt for VS 2017`. 
+* "VS 2017용 x64 네이티브 도구 명령 프롬프트"로 CMD 창을 열어야 한다
 * Clone the repo: `git clone https://github.com/Microsoft/AirSim.git`, and go the AirSim directory by `cd AirSim`. 
 * Run `build.cmd` from the command line. 
 

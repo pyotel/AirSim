@@ -27,7 +27,7 @@ This project is still in early development, expect some rough edges. We are work
 * Go inside the AirSim\Unity directory: `cd Unity`. 
 * Build the unity project: `build.cmd`.   
 * Additionally, there is a free environment `Windridge City` which you can download from [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/roadways/windridge-city-132222). And, of course, you can always create your own environment.
-
+* 빌드가 완료 되면 https://github.com/pyotel/AirSim/tree/master/Unity#usage  
 ## Linux
 #### Necessary Packages
 The linux wrapper requires Boost filesystem, which you can install by running the following command:
